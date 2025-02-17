@@ -1,0 +1,9 @@
+apiVersion: starwars.okontajneroch.sk/v1
+kind: Starfighter
+metadata:
+  name: x-wing-1
+  namespace: default
+spec:
+  faction: rebellion
+  pilot: Luke Skywalker
+  type: X-Wing
